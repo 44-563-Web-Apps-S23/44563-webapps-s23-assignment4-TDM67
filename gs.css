@@ -32,3 +32,16 @@
      font-family: 'Courier New', Courier, monospace;
 
 }
+.TABLE{
+    border: 1px solid;
+    text-align: center;
+}
+.TABLE th:hover{
+    background-color: aquamarine;
+}
+.TABLE th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  >TABLE tr:nth-child(even) {background-color: #f2f2f2;}

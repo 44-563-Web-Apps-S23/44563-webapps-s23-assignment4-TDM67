@@ -44,4 +44,4 @@
     padding: 8px;
   }
   
-  >TABLE tr:nth-child(even) {background-color: #f2f2f2;}
+  .TABLE tr:nth-child(even) {background-color: #f2f2f2;}

@@ -21,6 +21,10 @@
      font-size: medium;
      font-family: 'Courier New', Courier, monospace;
    }
+
+   .name:hover{
+    text-shadow: 0 0 2px #FF0000, 0 0 3px #0000FF;
+   }
 .MRS.X {
     color: red;
      font-size: medium;

@@ -1,0 +1,34 @@
+.speech {
+    color: black;
+     font-size: small;
+     font-family: 'Courier New', Courier, monospace;
+   }
+
+.directions {
+    color: black;
+    font-size: medium;
+    background-color: aquamarine;
+    
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .directions:hover {
+     color: red;
+     background-color: antiquewhite;
+   }
+
+.name {
+    color: black;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+.MRS.X {
+    color: red;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+}
+.MRS.Y {
+    color: yellow;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+
+}
